@@ -6,7 +6,7 @@ Simple Online Voice To Text converter using Python.
 
     >>pip install SpeechRecognition
     
-    Try this Command
+    Install pyaudio module
     >>pip install pyaudio
             
     If the above command is not working. Try these.
