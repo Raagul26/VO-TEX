@@ -4,6 +4,8 @@
 # VO-TEX
 Simple Online Voice To Text converter using Python.
 
+![Image of Yaktocat](https://image.flaticon.com/icons/svg/2983/2983820.svg)
+
 
 #### Instructions:  
 
