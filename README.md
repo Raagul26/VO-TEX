@@ -28,5 +28,4 @@ Simple Online Voice To Text converter using Python.
      Linux
      Mac os
     
-This program works fully online.It converts your audio to text format (*.txt).
 If any issue occurs report to me.
