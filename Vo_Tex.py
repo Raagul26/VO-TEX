@@ -133,7 +133,7 @@ def audio_text():
     clear()
 
 
-# Main function of program
+# Main function of progra
 def main():
     while True:
         print()
